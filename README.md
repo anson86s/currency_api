@@ -2,3 +2,9 @@
 2.Error handling 處理 API response。<br>
 3.swagger-ui。<br>
 4.design pattern：repository、DI。
+===================================================================<br>
+SQL語法<br>
+CREATE TABLE Currency (
+    Code TEXT PRIMARY KEY NOT NULL,
+    ChineseName TEXT NOT NULL
+);
